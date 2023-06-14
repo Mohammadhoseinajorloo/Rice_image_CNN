@@ -4,7 +4,6 @@
 pass="passphrase"
 ssh-add "${pass}"
 echo -n "entr your massege: "
-read massege
 TODAY=$(date)
 HOST=$(hostname)
 git add .
