@@ -2,7 +2,7 @@
 # This script can be used to commit changes to git repo and push to
 # remote repo all in one command.
 pass="passphrase"
-ssh-add "${pass}"
+ssh-add == "${pass}"
 echo "entr your massege"
 read massege
 TODAY=$(date)
