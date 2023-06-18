@@ -1,6 +1,13 @@
 # Rice image dataset
+## Dataset
+Rice image dataset hade 75000 imge of 5 type rice diffrents and 
+each type hade 15000 image in folder.
 
-# ToDo
+
+
+
+
+## ToDo
 [ ] complicated the model in colab
   > [ ] debug error pytorch model 
 [ ] test best epeack in model
