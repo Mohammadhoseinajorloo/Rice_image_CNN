@@ -11,4 +11,5 @@ each type hade 15000 image in folder.
 [ ] run coala library into priject and clean code 
 [ ] evaluation model 
 [ ] visoalization result model and dataset in firt code 
+[ ] creat GUI for project
 
